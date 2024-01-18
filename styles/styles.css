@@ -1,6 +1,11 @@
 .table {
     border: 1px solid #000;
 }
+.tr{
+    border-radius: 2%;
+    border-color: #000;
+    border: 2px;
+}
 .principal {
     text-decoration: solid;
 }
