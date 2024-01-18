@@ -1,12 +1,20 @@
 
-.tr{
-    border-radius: 2%;
-    border-color: #000;
-    border: 2px;
+table {
+    border: 1px solid #000;
+    
 }
-th{
-    border: 1px #000;
+tr{
+    text-align: center;
+    text-decoration:none;
+    
+}
+th,td{
+    border: 1px solid #000;
+    
 }
 .principal {
-   text-decoration: solid; 
+   text-decoration: double;
+}
+.horario{
+    border:#000 1px solid;
 }
