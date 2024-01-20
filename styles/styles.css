@@ -5,16 +5,45 @@ table {
 }
 tr{
     text-align: center;
-    text-decoration:none;
+
     
 }
 th,td{
     border: 1px solid #000;
     
 }
+.verde{
+    background-color: aquamarine;
+
+}
+.azul{
+    background-color: lightblue;
+}
+.amarillo{
+    background-color: rgb(252, 243, 204);
+}
 .principal {
    text-decoration: double;
 }
 .horario{
     border:#000 1px solid;
+}
+body {
+    font-family: Arial, sans-serif;  
+  }
+
+  form {
+
+    margin: 0 auto;
+  }
+
+  label {
+    display: block;
+    margin-top: 10px;
+  }
+input{
+    margin-top: 2rem;
+}
+button{
+    margin-top: 1rem;
 }
